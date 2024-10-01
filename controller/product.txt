@@ -1,0 +1,4 @@
+ img
+ p_name
+ prize
+ p_discption
